@@ -1,3 +1,5 @@
+# I didnt make this, she did -> [Elen](https://github.com/elentumasyan)
+
 # React Hooks Todo App
 
 > A trial to achieve a correct approach. Trying to get **rid off using Redux**, make **contexts more useful** with **useReducer** and make components **"easy-to-test simple functions"**.
